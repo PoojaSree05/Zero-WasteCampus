@@ -1,0 +1,61 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "rollno": "727623bit001",
+      "name": "Arun Kumar",
+      "year": "III",
+      "department": "IT",
+      "points": 30
+    },
+    {
+      "id": "2",
+      "rollno": "727622bcs010",
+      "name": "Ravi M",
+      "year": "IV",
+      "department": "CSE",
+      "points": 7
+    },
+    {
+      "id": "3",
+      "rollno": "727623bit002",
+      "name": "Priya S",
+      "year": "III",
+      "department": "IT",
+      "points": 3
+    },
+    {
+      "id": "4",
+      "rollno": "727622bec015",
+      "name": "Divya K",
+      "year": "IV",
+      "department": "ECE",
+      "points": 14
+    },
+    {
+      "id": "5",
+      "rollno": "727623bee020",
+      "name": "Sanjay P",
+      "year": "III",
+      "department": "EEE",
+      "points": 4
+    }
+  ],
+  "bins": [
+    {
+      "id": "1",
+      "wasteType": "Food Waste",
+      "currentFill": 50
+    },
+    {
+      "id": "2",
+      "wasteType": "Plastic Waste",
+      "currentFill": 25
+    },
+    {
+      "id": "3",
+      "wasteType": "Paper Waste",
+      "currentFill": 90
+    }
+  ]
+}
