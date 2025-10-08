@@ -6,7 +6,7 @@
       "name": "Arun Kumar",
       "year": "III",
       "department": "IT",
-      "points": 30
+      "points": 31
     },
     {
       "id": "2",
@@ -50,7 +50,7 @@
     {
       "id": "2",
       "wasteType": "Plastic Waste",
-      "currentFill": 25
+      "currentFill": 30
     },
     {
       "id": "3",
