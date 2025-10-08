@@ -9,31 +9,6 @@ Zero-Waste Campus is an interactive web application designed to streamline waste
 - Easy-to-navigate dashboards for quick insights
 
 ***
-## Screenshots
-### Landing Page
-![Landing Page](https://raw.githubusercontent.com/PoojaSree05/Zero-WasteCampus/refs/heads/main/src/assets/Result/landing-home introduction and project overview to get started.*
-
-### AI Classifier Form (Before Input)
-![AI Classifier Empty](https://raw.githubusercontent.com/PoojaSree05/Zero-WasteCampus/refs/heads/main/src/assets/Result/ai-classifier and provide details to identify waste type with AI assistance.*
-
-### AI Classifier in Action
-![Classifier Result](https://raw.githubusercontent.com/PoojaSree05/Zero-WasteCampus/refs/heads/main/src/assets/Result/ai-classifierifying, the detected waste type and points awarded are shown.*
-
-### Bin Capacity Display
-![Bin Capacities Section](https://github.com/PoojaSree05/Zero-WasteCampus/blob/main/src/assets/Result/bin
-
-*Visual bin fill status keeps disposal efficient and bins maintained.*
-
-### Dashboard Overview
-![Dashboard](https://raw.githubusercontent.com/PoojaSree05/Zero-WasteCampus/refs/heads/main/src/assets/Result/dashboard.png view integrating smart bins, classifier, and gamification.*
-
-### Leaderboard
-![Leaderboard Gamification](https://raw.githubusercontent.com/PoojaSree05/Zero-WasteCampus/refs/heads/main/src/assets/Result/leaderboard gamification points—encouraging better waste practices among users.*
-
-### Smart Bin Notifications
-![Smart Bin Notification](https://github.com/PoojaSree05/Zero-WasteCampus/blob/main/src/assets/Result/smart-bins-notification.png when bins are full and reset bins efficiently.*
-
-***
 
 ## Getting Started
 
@@ -94,22 +69,6 @@ Feel free to personalize project description, add credits, or expand feature lis
 # Zero-Waste Campus
 
 An interactive platform to support efficient and gamified campus waste management using AI, smart bins, and data dashboards.
-
-***
-
-## Screenshots
-
-**Landing Page**
-![Landing Page](https://raw.githubusercontent.com/PoojaSree05/Zero-WasteCampus/refs/heads/main/src/assets/Result/landing-homeifier (Waiting for Input)**
-![Classifier Empty](https://raw.githubusercontent.com/PoojaSree05/Zero-WasteCampus/refs/heads/main/src/assets/Result/ai-classifierifier (After Disposal)**
-![Classifier Result](https://raw.githubusercontent.com/PoojaSree05/Zero-WasteCampus/refs/heads/main/src/assets/Result/ai-classifierities**
-![Bin Capacities](https://github.com/PoojaSree05/Zero-WasteCampus/blob/main/src/assets/Result/bin
-
-
-**Main Dashboard**
-![Dashboard](https://raw.githubusercontent.com/PoojaSree05/Zero-WasteCampus/refs/heads/main/src/assets/Result/dashboard.pnghttps://raw.githubusercontent.com/PoojaSree05/Zero-WasteCampus/refs/heads/main/src/assets/Result/leaderboard Bin Notifications**
-![Smart Bin Notification](https://github.com/PoojaSree05/Zero-WasteCampus/blob/main/src/assets/Result/smart-bins-notification.png
-
 - Detects waste type using image classification
 - Tracks bin capacity and sends notifications when full
 - Offers a leaderboard and gamification for users
@@ -144,7 +103,28 @@ Get started by following these steps:
 5. **Visit your app in the browser**
    - Open [http://localhost:5173](http://localhost:5173) or follow the link shown in your terminal.
 
-***
+**Screenshots**
+### Landing Page
+![Landing Page](https://raw.githubusercontent.com/PoojaSree05/Zero-WasteCampus/refs/heads/main/src/assets/Result/landing-homepage.png)
+
+### AI Classifier (Empty)
+![AI Classifier Empty](https://raw.githubusercontent.com/PoojaSree05/Zero-WasteCampus/refs/heads/main/src/assets/Result/ai-classifier-empty.png)
+
+### AI Classifier (After Disposal)
+![AI Classifier Result](https://raw.githubusercontent.com/PoojaSree05/Zero-WasteCampus/refs/heads/main/src/assets/Result/ai-classifier-result.png)
+
+### Bin Capacities
+![Bin Capacities](https://github.com/PoojaSree05/Zero-WasteCampus/blob/main/src/assets/Result/bin-capacities-section.png)
+
+### Dashboard
+![Dashboard](https://raw.githubusercontent.com/PoojaSree05/Zero-WasteCampus/refs/heads/main/src/assets/Result/dashboard.png)
+
+### Leaderboard
+![Leaderboard](https://raw.githubusercontent.com/PoojaSree05/Zero-WasteCampus/refs/heads/main/src/assets/Result/leaderboard-gamification.png)
+
+### Smart Bin Notification
+![Smart Bin Notification](https://github.com/PoojaSree05/Zero-WasteCampus/blob/main/src/assets/Result/smart-bins-notification.png)
+
 
 ## Usage
 
@@ -162,6 +142,6 @@ Ideas and improvements are always welcome. Fork the project, create a branch, an
 ***
 
 ## License
+This project is licensed under the MIT License.
 
-MIT License.
-[1](https://raw.githubusercontent.com/PoojaSree05/Zero-WasteCampus/refs/heads/main/src/assets/Result/landing-homepage.png)
+
